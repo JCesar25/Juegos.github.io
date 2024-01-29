@@ -1,7 +1,7 @@
 
 import './App.css';
 import { BrowserRouter, Route, Routes  } from 'react-router-dom';
-import Juegos from "./Componentes/Juegos"
+import Juegos from "../build/static/js/Juegos"
 
 function App() {
   return (

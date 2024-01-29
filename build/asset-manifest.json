@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/build/static/css/main.f855e6bc.css",
+    "main.js": "/react-github-pages/build/static/js/main.0c494d28.js",
+    "static/js/787.a386c79d.chunk.js": "/react-github-pages/build/static/js/787.a386c79d.chunk.js",
+    "static/media/juegos.jpg": "/react-github-pages/build/static/media/juegos.ba7e9a0ee2b605b300cb.jpg",
+    "index.html": "/react-github-pages/build/index.html",
+    "main.f855e6bc.css.map": "/react-github-pages/build/static/css/main.f855e6bc.css.map",
+    "main.0c494d28.js.map": "/react-github-pages/build/static/js/main.0c494d28.js.map",
+    "787.a386c79d.chunk.js.map": "/react-github-pages/build/static/js/787.a386c79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c494d28.js"
+  ]
+}
